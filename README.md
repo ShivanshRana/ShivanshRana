@@ -1,25 +1,44 @@
-# ShivanshRana/shivansh
+# 🚀 Shivansh Rana
 
-Welcome to the **shivansh** repository!
+## 👋 About Me
 
-## Overview
+Hi! I'm Shivansh Rana, a passionate **MERN stack developer** and **DevOps engineer**.  
+I specialize in building robust web applications and scalable infrastructure, blending modern JavaScript frameworks with cloud-native technologies.
 
-This project is maintained by [ShivanshRana](https://github.com/ShivanshRana).  
-Describe your project here: what it does, main features, technologies used, and any relevant background.
+- 💻 **MERN Stack:** MongoDB, Express.js, React.js, Node.js
+- ⚙️ **DevOps & Cloud:** Docker, Kubernetes, Vercel
 
-## Getting Started
+## 🛠️ Skills & Technologies
 
-### Prerequisites
+Here are some of the technologies and tools I work with:
 
-- List any requirements or dependencies (e.g. Python >= 3.8, Node.js, etc.)
+| Symbol       | Technology    |
+|--------------|--------------|
+| ⚛️           | React        |
+| 🚀           | Express      |
+| 🖥️           | C++          |
+| ☕           | Java         |
+| 📬           | Postman      |
+| 🐙           | GitHub       |
+| ▲            | Vercel       |
+| 🍃           | MongoDB      |
+| 🏃           | Fastify      |
+| 🐳           | Docker       |
+| ☸️           | Kubernetes   |
 
-### Installation
+## 📈 Total Contributions
 
-```bash
-# Clone the repository
-git clone https://github.com/ShivanshRana/shivansh.git
+- **GitHub Contributions:**  
+  ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com?user=ShivanshRana&theme=react&hide_border=true)
 
-# Enter the directory
-cd shivansh
+## 💬 Quote of the Day
 
-# (Add installation steps here)
+> "The only way to do great work is to love what you do." — Steve Jobs
+
+<!-- 
+To make the quote change randomly, you can use a GitHub Action to update this section daily with a new quote.
+-->
+
+---
+
+_Thanks for visiting! Let's build something awesome together._  
